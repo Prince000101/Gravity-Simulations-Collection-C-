@@ -265,7 +265,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * `blackhole_shader.cpp` — basic black hole lens distortion
 * `gravity_sim.cpp` — gravity field simulation
 
-![blackhole00](screenshots/blackhole00.png)
+![blackhole00](blackhole00/screenshot.png)
 
 ---
 
@@ -274,7 +274,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * `blackhole_sim.cpp`
 * Includes `ring.png`, `stars.jpg`, and `lens_distortion.frag`
 
-![blackhole01](screenshots/blackhole01.png)
+![blackhole01](blackhole01/screenshot.png)
 
 ---
 
@@ -282,7 +282,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 
 * `blackhole_shader.cpp` – high-intensity lensing simulation
 
-![blackhole02](screenshots/blackhole02.png)
+![blackhole02](blackhole02/screenshot.png)
 
 ---
 
@@ -291,7 +291,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * `blackhole_simulation.cpp`
 * Visually rich spinning disk with distortions
 
-![blackhole03](screenshots/blackhole03.png)
+![blackhole03](blackhole03/screenshot.png)
 
 ---
 
@@ -300,7 +300,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * `blackhole_sim.cpp` – black hole
 * `solar_system.cpp` – solar system
 
-![blackhole04](screenshots/blackhole04.png)
+![blackhole04](solarsystem04/screenshot.png)
 
 ---
 
@@ -309,7 +309,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * Full planetary orbit simulation
 * Procedural orbits, names, speeds
 
-![solarsystem05](screenshots/solarsystem05.png)
+![solarsystem05](solarsystem05/screenshot.png)
 
 ---
 
@@ -318,7 +318,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * Improved visuals and planet transitions
 * Zoom & camera controls
 
-![solorsystem06](screenshots/solorsystem06.png)
+![solorsystem06](solorsystem06/screenshot.png)
 
 ---
 
@@ -327,7 +327,7 @@ Make sure to **run from the same folder** so shaders/images load correctly.
 * `sun_earth_moon.cpp`
 * Simulates moon orbit and eclipse logic
 
-![solorsystem07](screenshots/solorsystem07.png)
+![solorsystem07](solorsystem07/screenshot.png)
 
 ---
 
