@@ -1,5 +1,3 @@
-@@ -1,355 +0,0 @@
-
 # 🌌 Gravity Simulations Collection
 
 A set of advanced **C++ & SFML** projects visualizing **black holes**, **gravitational lensing**, and **solar system dynamics** using shaders and real-time physics. Each folder is a standalone simulation showcasing visually rich astrophysical phenomena.
